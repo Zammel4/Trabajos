@@ -1,4 +1,3 @@
-# Trabajos extras
 ### 💼 Trabajos Extras: Mis Proyectos Versátiles (Visualización en 3 Columnas)
 
 <table width="100%">
